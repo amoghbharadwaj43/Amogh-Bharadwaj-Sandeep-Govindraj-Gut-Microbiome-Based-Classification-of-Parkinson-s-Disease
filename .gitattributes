@@ -3,3 +3,8 @@ results/network/coabundance_pd_edges_full_xg.csv filter=lfs diff=lfs merge=lfs -
 results/network/coabundance_healthy_edges_full_xg.csv filter=lfs diff=lfs merge=lfs -text
 results/network/coabundance_differential_edges_full_xg.csv filter=lfs diff=lfs merge=lfs -text
 *.joblib filter=lfs diff=lfs merge=lfs -text
+
+# Third-party cross-cohort dataset (Metcalfe-Roach 2024, included for
+# reproducibility) — exclude from GitHub's language statistics so the language
+# bar reflects this project's own code rather than the vendored notebooks/R.
+data/metcalfe_roach_2024_validation/** linguist-vendored
