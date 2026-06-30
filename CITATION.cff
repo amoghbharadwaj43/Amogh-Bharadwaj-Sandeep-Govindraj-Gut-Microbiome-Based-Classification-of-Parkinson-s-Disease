@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite it as below."
+title: "Gut Microbiome-Based Classification of Parkinson's Disease Using Ensemble Learning and Graph-Theoretic Network Analysis"
+abstract: >-
+  A dual-method pipeline integrating supervised ensemble learning with
+  graph-theoretic co-abundance network analysis (Random Walk Betweenness
+  Centrality) applied to shotgun metagenomic data, with cross-cohort
+  validation, for the classification of Parkinson's disease from the gut
+  microbiome.
+authors:
+  - family-names: Bharadwaj
+    given-names: Amogh
+  - family-names: Govindraj
+    given-names: Sandeep
+date-released: "2026-06-30"
+license: MIT
+url: "https://github.com/amoghbharadwaj43/Amogh-Bharadwaj-Sandeep-Govindraj-Gut-Microbiome-Based-Classification-of-Parkinson-s-Disease"
+keywords:
+  - Parkinson's disease
+  - gut microbiome
+  - machine learning
+  - ensemble learning
+  - co-abundance network
+  - Random Walk Betweenness Centrality
