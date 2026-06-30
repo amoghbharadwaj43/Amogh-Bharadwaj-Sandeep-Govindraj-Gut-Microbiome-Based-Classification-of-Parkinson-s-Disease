@@ -1,0 +1,34 @@
+{
+  "data_path": "/Users/amoghbharadwaj/PycharmProjects/Science_Fair_25_26/data/microbiome_V2_clr.csv",
+  "target_column": "Case_status_PD",
+  "n_samples": 639,
+  "n_features_total": 1015,
+  "feature_domain": "taxa",
+  "corr_threshold": 0.55,
+  "pd_summary": {
+    "nodes": 1015,
+    "edges": 323825,
+    "components": 72,
+    "hub_feature": "k__Bacteria",
+    "hub_degree": 826,
+    "mean_abs_corr": 0.8430898351191615
+  },
+  "healthy_summary": {
+    "nodes": 1015,
+    "edges": 324147,
+    "components": 62,
+    "hub_feature": "k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Propionibacteriales|f__Propionibacteriaceae|g__Pseudopropionibacterium",
+    "hub_degree": 830,
+    "mean_abs_corr": 0.8406670076295758
+  },
+  "n_pd_only_edges": 14717,
+  "n_healthy_only_edges": 15039,
+  "output_files": {
+    "features_csv": "/Users/amoghbharadwaj/PycharmProjects/Science_Fair_25_26/artifacts/network/coabundance_top_features_full_xg.csv",
+    "features_raw_csv": "/Users/amoghbharadwaj/PycharmProjects/Science_Fair_25_26/artifacts/network/coabundance_top_features_full_xg_raw.csv",
+    "pd_edges_csv": "/Users/amoghbharadwaj/PycharmProjects/Science_Fair_25_26/artifacts/network/coabundance_pd_edges_full_xg.csv",
+    "healthy_edges_csv": "/Users/amoghbharadwaj/PycharmProjects/Science_Fair_25_26/artifacts/network/coabundance_healthy_edges_full_xg.csv",
+    "differential_edges_csv": "/Users/amoghbharadwaj/PycharmProjects/Science_Fair_25_26/artifacts/network/coabundance_differential_edges_full_xg.csv",
+    "network_figure_png": "/Users/amoghbharadwaj/PycharmProjects/Science_Fair_25_26/artifacts/network/coabundance_network_full_xg.png"
+  }
+}

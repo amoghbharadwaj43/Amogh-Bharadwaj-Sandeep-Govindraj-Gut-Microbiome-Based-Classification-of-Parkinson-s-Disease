@@ -1,0 +1,20 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# Large data + model binaries are tracked with Git LFS (see .gitattributes),
+# so they travel with the repo instead of being ignored.
+# ─────────────────────────────────────────────────────────────────────────────
+
+# ─── Runtime caches / generated scratch ───
+__pycache__/
+*.py[cod]
+.cache/
+.mplconfig/
+.optuna/
+*.log
+
+# ─── OS / IDE ───
+.DS_Store
+.idea/
+.vscode/
+.venv/
+venv/
+env/

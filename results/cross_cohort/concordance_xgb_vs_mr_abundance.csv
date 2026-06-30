@@ -1,0 +1,5 @@
+wallen_feature,wallen_direction,wallen_importance,mr_species,mr_log2fc,mr_direction,mr_rel_ab_pd,mr_rel_ab_ctrl,found_in_MR,direction_concordant
+Blautia wexlerae,depleted_PD,11.508,s__Blautia_wexlerae,-0.57,depleted_PD,0.19,0.28,True,True
+Roseburia,depleted_PD,9.7,s__Roseburia_faecis,-0.37,depleted_PD,1.43,1.85,True,True
+Streptococcus australis,enriched_PD,8.192,,,,,,False,
+Actinomyces odontolyticus,enriched_PD,4.971,,,,,,False,

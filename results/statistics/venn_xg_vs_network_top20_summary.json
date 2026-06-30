@@ -1,0 +1,13 @@
+{
+  "xg_csv": "/Users/amoghbharadwaj/PycharmProjects/Science_Fair_25_26/artifacts/modeling/feature_importance.csv",
+  "network_csv": "/Users/amoghbharadwaj/PycharmProjects/Science_Fair_25_26/legacy/artifacts/random_walk_betweenness_centrality.csv",
+  "xg_top20_count": 20,
+  "network_top20_count": 20,
+  "shared_count": 0,
+  "xg_only_count": 20,
+  "network_only_count": 20,
+  "shared_features_raw": [],
+  "shared_features_clean": [],
+  "output_png": "/Users/amoghbharadwaj/PycharmProjects/Science_Fair_25_26/artifacts/analysis/venn_xg_vs_network_top20.png",
+  "output_shared_csv": "/Users/amoghbharadwaj/PycharmProjects/Science_Fair_25_26/artifacts/analysis/venn_xg_vs_network_top20_shared.csv"
+}

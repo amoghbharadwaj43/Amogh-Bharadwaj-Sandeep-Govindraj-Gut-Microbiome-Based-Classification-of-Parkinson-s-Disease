@@ -1,0 +1,6 @@
+type,count,percentage
+Protein (KEGG KO),8526,83.01041768084899
+Taxonomic (MetaPhlAn),1107,10.777918411060266
+Pathway (MetaCyc),499,4.858339012754357
+Categorical Metadata,117,1.1391295881608412
+Other Metadata,22,0.21419530717554278

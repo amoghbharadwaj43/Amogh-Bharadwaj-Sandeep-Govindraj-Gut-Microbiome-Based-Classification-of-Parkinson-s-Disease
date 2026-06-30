@@ -1,0 +1,20 @@
+PWY-7111: pyruvate fermentation to isobutanol (engineered)
+VALSYN-PWY: L-valine biosynthesis
+PWY0-1319: CDP-diacylglycerol biosynthesis II
+PWY-5973: cis-vaccenate biosynthesis
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)
+TRNA-CHARGING-PWY: tRNA charging
+PWY-5686: UMP biosynthesis I
+COA-PWY-1: superpathway of coenzyme A biosynthesis III (mammals)
+Constipation_Y
+1CMET2-PWY: folate transformations III (E. coli)
+PWY-6737: starch degradation V
+PWY-5097: L-lysine biosynthesis VI
+CALVIN-PWY: Calvin-Benson-Bassham cycle
+PWY-5695: inosine 5'-phosphate degradation
+PANTOSYN-PWY: superpathway of coenzyme A biosynthesis I (bacteria)
+K02887: large subunit ribosomal protein L20
+HISTSYN-PWY: L-histidine biosynthesis
+k__Bacteria
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)
+PWY-7357: thiamine phosphate formation from pyrithiamine and oxythiamine (yeast)

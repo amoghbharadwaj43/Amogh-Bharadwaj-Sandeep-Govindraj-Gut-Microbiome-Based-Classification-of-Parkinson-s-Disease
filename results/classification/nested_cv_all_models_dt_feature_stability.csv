@@ -1,0 +1,90 @@
+feature,n_folds_selected
+Sex=M,5
+Constipation=Y,5
+humann_pathway_counts::PWY-6892: thiazole component of thiamine diphosphate biosynthesis I,2
+"humann_KO_group_counts::K03407: two-component system, chemotaxis family, sensor kinase CheA [EC:2.7.13.3]",2
+humann_KO_group_counts::K06880: erythromycin esterase [EC:3.1.1.-],2
+metaphlan_counts::k__Bacteria|p__Firmicutes|c__Erysipelotrichia|o__Erysipelotrichales|f__Erysipelotrichaceae|g__Holdemanella,1
+metaphlan_rel_ab::k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Escherichia|s__Escherichia_coli,1
+humann_KO_group_counts::K14742: tRNA threonylcarbamoyladenosine biosynthesis protein TsaB,1
+metaphlan_counts::k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Blautia|s__Blautia_hydrogenotrophica,1
+humann_KO_group_counts::K05997: Fe-S cluster assembly protein SufA,1
+humann_KO_group_counts::K05895: precorrin-6A/cobalt-precorrin-6A reductase [EC:1.3.1.54 1.3.1.106],1
+"humann_KO_group_counts::K01040: glutaconate CoA-transferase, subunit B [EC:2.8.3.12]",1
+humann_KO_group_counts::K10538: L-arabinose transport system permease protein,1
+humann_pathway_counts::METH-ACETATE-PWY: methanogenesis from acetate,1
+humann_KO_group_counts::K22116: gamma-polyglutamate biosynthesis protein CapC,1
+metaphlan_rel_ab::k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Bifidobacteriales|f__Bifidobacteriaceae|g__Bifidobacterium|s__Bifidobacterium_dentium,1
+humann_KO_group_counts::K21498: antitoxin HigA-1,1
+humann_KO_group_counts::K03230: type III secretion protein V,1
+humann_KO_group_counts::K03238: translation initiation factor 2 subunit 2,1
+humann_KO_group_counts::K17218: sulfide:quinone oxidoreductase [EC:1.8.5.4],1
+humann_KO_group_counts::K00768: nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase [EC:2.4.2.21],1
+"humann_KO_group_counts::K01419: ATP-dependent HslUV protease, peptidase subunit HslV [EC:3.4.25.2]",1
+humann_KO_group_counts::K01995: branched-chain amino acid transport system ATP-binding protein,1
+"humann_KO_group_counts::K07481: transposase, IS5 family",1
+humann_KO_group_counts::K00138: aldehyde dehydrogenase [EC:1.2.1.-],1
+humann_KO_group_counts::K00823: 4-aminobutyrate aminotransferase [EC:2.6.1.19],1
+metaphlan_rel_ab::k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Odoribacteraceae|g__Butyricimonas,1
+Probiotic=Y,1
+humann_KO_group_counts::K08372: putative serine protease PepD [EC:3.4.21.-],1
+humann_KO_group_counts::K02806: nitrogen PTS system EIIA component [EC:2.7.1.-],1
+humann_KO_group_counts::K00574: cyclopropane-fatty-acyl-phospholipid synthase [EC:2.1.1.79],1
+humann_KO_group_counts::K05368: aquacobalamin reductase / NAD(P)H-flavin reductase [EC:1.16.1.3 1.5.1.41],1
+humann_KO_group_counts::K07019: uncharacterized protein,1
+humann_KO_group_counts::K00040: fructuronate reductase [EC:1.1.1.57],1
+humann_KO_group_counts::K06975: uncharacterized protein,1
+humann_KO_group_counts::K07277: outer membrane protein insertion porin family,1
+humann_KO_group_counts::K00795: farnesyl diphosphate synthase [EC:2.5.1.1 2.5.1.10],1
+humann_KO_group_counts::K20904: (R)-2-hydroxyglutaryl-CoA dehydratase subunit beta [EC:4.2.1.167],1
+"humann_KO_group_counts::K12452: CDP-4-dehydro-6-deoxyglucose reductase, E1 [EC:1.17.1.1]",1
+humann_KO_group_counts::K06385: stage II sporulation protein P,1
+metaphlan_counts::k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Bifidobacteriales|f__Bifidobacteriaceae|g__Bifidobacterium|s__Bifidobacterium_dentium,1
+humann_KO_group_counts::K01308: g-D-glutamyl-meso-diaminopimelate peptidase [EC:3.4.19.11],1
+humann_KO_group_counts::K01821: 4-oxalocrotonate tautomerase [EC:5.3.2.6],1
+metaphlan_rel_ab::k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales,1
+humann_KO_group_counts::K09004: uncharacterized protein,1
+metaphlan_rel_ab::k__Bacteria|p__Firmicutes|c__Erysipelotrichia|o__Erysipelotrichales|f__Erysipelotrichaceae|g__Turicibacter|s__Turicibacter_sanguinis,1
+humann_KO_group_counts::K09974: uncharacterized protein,1
+"humann_KO_group_counts::K08222: MFS transporter, YQGE family, putative transporter",1
+humann_KO_group_counts::K03706: transcriptional pleiotropic repressor,1
+humann_KO_group_counts::K02048: sulfate/thiosulfate transport system substrate-binding protein,1
+metaphlan_rel_ab::k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Blautia|s__Ruminococcus_gnavus,1
+humann_KO_group_counts::K02116: ATP synthase protein I,1
+"humann_KO_group_counts::K08369: MFS transporter, putative metabolite:H+ symporter",1
+humann_pathway_counts::PWY-7316: dTDP-N-acetylviosamine biosynthesis,1
+humann_KO_group_counts::K19064: lysine 6-dehydrogenase [EC:1.4.1.18],1
+metaphlan_counts::k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Actinomycetaceae|g__Actinomyces|s__Actinomyces_oris,1
+humann_pathway_counts::POLYAMINSYN3-PWY: superpathway of polyamine biosynthesis II,1
+humann_KO_group_counts::K11179: tRNA 2-thiouridine synthesizing protein E [EC:2.8.1.-],1
+"humann_KO_group_counts::K01007: pyruvate, water dikinase [EC:2.7.9.2]",1
+humann_KO_group_counts::K02796: mannose PTS system EIID component,1
+humann_KO_group_counts::K03304: tellurite resistance protein,1
+"humann_KO_group_counts::K18012: L-erythro-3,5-diaminohexanoate dehydrogenase [EC:1.4.1.11]",1
+humann_KO_group_counts::K03399: cobalt-precorrin-7 (C5)-methyltransferase [EC:2.1.1.289],1
+humann_KO_group_counts::K14534: 4-hydroxybutyryl-CoA dehydratase / vinylacetyl-CoA-Delta-isomerase [EC:4.2.1.120 5.3.3.3],1
+humann_KO_group_counts::K21473: peptidoglycan DL-endopeptidase RipA [EC:3.4.-.-],1
+metaphlan_rel_ab::k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Roseburia|s__Roseburia_faecis,1
+metaphlan_counts::k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae,1
+"humann_KO_group_counts::K01006: pyruvate, orthophosphate dikinase [EC:2.7.9.1]",1
+humann_KO_group_counts::K07571: S1 RNA binding domain protein,1
+humann_KO_group_counts::K02986: small subunit ribosomal protein S4,1
+humann_KO_group_counts::K09807: uncharacterized protein,1
+"humann_pathway_counts::PWY-7385: 1,3-propanediol biosynthesis (engineered)",1
+humann_pathway_counts::7ALPHADEHYDROX-PWY,1
+humann_KO_group_counts::K00728: dolichyl-phosphate-mannose-protein mannosyltransferase [EC:2.4.1.109],1
+humann_KO_group_counts::K09786: uncharacterized protein,1
+humann_pathway_counts::PWY-7312: dTDP-&beta;-D-fucofuranose biosynthesis,1
+metaphlan_rel_ab::k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Streptococcus|s__Streptococcus_mitis,1
+humann_KO_group_counts::K03188: urease accessory protein,1
+humann_KO_group_counts::K02598: nitrite transporter,1
+humann_KO_group_counts::K09955: uncharacterized protein,1
+humann_KO_group_counts::K07742: uncharacterized protein,1
+humann_KO_group_counts::K06393: stage III sporulation protein AD,1
+humann_KO_group_counts::K02263: cytochrome c oxidase subunit 4,1
+humann_KO_group_counts::K07455: recombination protein RecT,1
+humann_KO_group_counts::K06919: putative DNA primase/helicase,1
+humann_KO_group_counts::K02242: competence protein ComFC,1
+metaphlan_counts::k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae|g__Bacteroides|s__Bacteroides_vulgatus,1
+humann_KO_group_counts::K04047: starvation-inducible DNA-binding protein,1
+humann_KO_group_counts::K03610: septum site-determining protein MinC,1

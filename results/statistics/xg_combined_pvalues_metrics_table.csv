@@ -1,0 +1,21 @@
+Feature,Gain,Weight,Cover,p-value,FDR,Effect Size,Δ CLR (PD−HC),Direction
+Sex=M,0.15,142,42,3.745e-13,2.497e-12,Small,NA,↑ PD
+Constipation=Y,0.21,105,45,8.731e-12,2.91e-11,Small,NA,↔ PD
+Blautia wexlerae (counts),0.05,249,12,5.073e-11,1.449e-10,Small,-1.68,↓ PD
+K15584: nickel transport system substrate-binding protein,0.04,376,16,0.01201,0.01502,Negligible,-0.83,↓ PD
+K17680: twinkle protein [EC:3.6.4.12],0.00,0,0,0.8505,0.8505,Negligible,-0.02,↓ PD
+K01783: ribulose-phosphate 3-epimerase [EC:5.1.3.1],0.00,0,0,1.039e-09,2.596e-09,Small,-0.49,↓ PD
+Roseburia,0.05,343,16,6.331e-12,2.533e-11,Small,-1.03,↓ PD
+Actinomyces odontolyticus,0.04,307,15,0.0004967,0.0007096,Small,-16.57,↓ PD
+K03930: putative tributyrin esterase [EC:3.1.1.-],0.00,0,0,0.001547,0.002063,Small,-12.02,↓ PD
+Streptococcus australis,0.05,306,20,8.671e-13,4.336e-12,Small,-0.46,↓ PD
+K08717: urea transporter,0.03,293,15,0.8067,0.8492,Negligible,+0.28,↑ PD
+K05593: aminoglycoside 6-adenylyltransferase [EC:2.7.7.-],0.00,0,0,0.000218,0.0003354,Small,-0.41,↓ PD
+Lachnospiraceae,0.07,290,16,8.668e-14,1.088e-12,Small,-0.46,↓ PD
+K09775: uncharacterized protein,0.04,319,16,1.602e-05,3.203e-05,Small,-0.85,↓ PD
+Day_of_stool_collection_digestion_issue=Y,0.06,47,27,5.825e-05,9.709e-05,Small,NA,↔ PD
+Blautia wexlerae (rel_ab),0.04,218,12,1.277e-09,2.837e-09,Small,-1.34,↓ PD
+K07006: uncharacterized protein,0.04,251,16,0.03947,0.04643,Negligible,+0.09,↑ PD
+K10541: methyl-galactoside transport system permease protein,0.05,300,16,1.088e-13,1.088e-12,Small,-0.79,↓ PD
+K02574: ferredoxin-type protein NapH,0.04,280,16,0.1614,0.1793,Negligible,-0.46,↓ PD
+K06910: phosphatidylethanolamine-binding protein,0.04,291,14,2.753e-05,5.005e-05,Small,+0.59,↑ PD

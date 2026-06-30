@@ -1,0 +1,21 @@
+feature,importance
+PWY-7111: pyruvate fermentation to isobutanol (engineered),0.0062926677807277
+VALSYN-PWY: L-valine biosynthesis,0.0060467428395355
+PWY0-1319: CDP-diacylglycerol biosynthesis II,0.0057605004445288
+PWY-5973: cis-vaccenate biosynthesis,0.0056721433500285
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants),0.0055347400818191
+TRNA-CHARGING-PWY: tRNA charging,0.005448173779113
+PWY-5686: UMP biosynthesis I,0.0052741007372806
+COA-PWY-1: superpathway of coenzyme A biosynthesis III (mammals),0.005145609936562
+1CMET2-PWY: folate transformations III (E. coli),0.0044485562187883
+PWY-6737: starch degradation V,0.0044025448951844
+PWY-5097: L-lysine biosynthesis VI,0.0043111573461433
+CALVIN-PWY: Calvin-Benson-Bassham cycle,0.0042984090177207
+PWY-5695: inosine 5'-phosphate degradation,0.0042634842091175
+PANTOSYN-PWY: superpathway of coenzyme A biosynthesis I (bacteria),0.004215601288979
+K02887: large subunit ribosomal protein L20,0.0041741878193696
+HISTSYN-PWY: L-histidine biosynthesis,0.0039989990516735
+k__Bacteria,0.0037975628955511
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing),0.00370966199869
+PWY-7357: thiamine phosphate formation from pyrithiamine and oxythiamine (yeast),0.0037045134273121
+PWY-1042: glycolysis IV,0.0036929915206999

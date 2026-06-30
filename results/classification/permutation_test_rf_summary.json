@@ -1,0 +1,34 @@
+{
+  "data_path": "/Users/amoghbharadwaj/PycharmProjects/Science_Fair_25_26/important/data/Source_Data_24Oct2022_prepped.csv",
+  "n_samples": 724,
+  "n_features": 11,
+  "features_used": [
+    "Sex=M",
+    "Constipation=Y",
+    "metaphlan_counts::k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae",
+    "metaphlan_counts::k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Roseburia",
+    "metaphlan_counts::k__Bacteria|p__Firmicutes|c__Clostridia",
+    "metaphlan_counts::k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Clostridiaceae|g__Clostridium",
+    "metaphlan_counts::k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Micrococcales|f__Micrococcaceae|g__Rothia|s__Rothia_mucilaginosa",
+    "humann_pathway_counts::PWY-6892: thiazole component of thiamine diphosphate biosynthesis I",
+    "metaphlan_counts::k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales",
+    "humann_KO_group_counts::K10541: methyl-galactoside transport system permease protein",
+    "metaphlan_rel_ab::k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Streptococcus|s__Streptococcus_australis"
+  ],
+  "n_folds": 5,
+  "n_permutations": 200,
+  "random_seed": 42,
+  "real_cv_accuracy": 0.7499712643678161,
+  "real_cv_folds": [
+    0.7448275862068966,
+    0.7655172413793103,
+    0.7724137931034483,
+    0.7379310344827587,
+    0.7291666666666666
+  ],
+  "shuffled_mean": 0.6457990421455939,
+  "shuffled_std": 0.01098385080777907,
+  "shuffled_best": 0.6767816091954023,
+  "p_value": 0.0,
+  "p_value_corrected": 0.004975124378109453
+}

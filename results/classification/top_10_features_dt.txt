@@ -1,0 +1,10 @@
+PWY-7199: pyrimidine deoxyribonucleosides salvage
+k__Bacteria
+K02026: multiple sugar transport system permease protein
+K02902: large subunit ribosomal protein L28
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Clostridiaceae|g__Clostridium|s__Clostridium_sp_CAG_58
+K00074: 3-hydroxybutyryl-CoA dehydrogenase [EC:1.1.1.157]
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae|g__Bacteroides|s__Bacteroides_vulgatus
+K07574: RNA-binding protein
+K11535: nucleoside transport protein

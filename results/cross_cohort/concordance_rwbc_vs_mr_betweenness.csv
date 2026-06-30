@@ -1,0 +1,10 @@
+wallen_taxon,wallen_rwbc_pd,wallen_delta,wallen_direction,found_in_MR_PD,found_in_MR_ctrl,mr_bc_pd,mr_bc_ctrl,mr_delta_direction,direction_concordant
+Klebsiella michiganensis,2.7132,1.397,higher_in_PD,False,False,,,,
+Clostridiales,2.3695,1.2901,higher_in_PD,False,False,,,,
+Clostridia,2.3612,1.3012,higher_in_PD,False,False,,,,
+Lachnospiraceae,2.3468,1.1138,higher_in_PD,False,False,,,,
+Pseudoflavonifractor capillosus,1.8703,1.0342,higher_in_PD,False,False,,,,
+Lactobacillus salivarius,0.2374,-0.9891,higher_in_healthy,False,False,,,,
+Catenibacterium,0.6325,0.3054,higher_in_PD,False,False,,,,
+Eubacterium limosum,0.2307,-0.1074,higher_in_healthy,False,False,,,,
+Ruthenibacterium lactatiformans,0.0,0.0,equal,True,True,641.9814470385506,49.7768315018315,higher_in_PD,False

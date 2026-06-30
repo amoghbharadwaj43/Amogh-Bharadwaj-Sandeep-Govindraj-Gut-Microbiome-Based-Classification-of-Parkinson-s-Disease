@@ -1,0 +1,10 @@
+k__Bacteria
+UNMAPPED.1
+PWY-5686: UMP biosynthesis I
+NONMEVIPP-PWY: methylerythritol phosphate pathway I
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)
+PWY-5695: inosine 5'-phosphate degradation
+PANTO-PWY: phosphopantothenate biosynthesis I
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales
+k__Bacteria|p__Bacteroidetes
+PANTOSYN-PWY: superpathway of coenzyme A biosynthesis I (bacteria)

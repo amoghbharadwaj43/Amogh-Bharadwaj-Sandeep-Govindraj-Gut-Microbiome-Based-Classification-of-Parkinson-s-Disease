@@ -1,0 +1,21 @@
+feature,importance
+Sex=M,14.413155
+Constipation=Y,9.241142
+humann_KO_group_counts::K07006: uncharacterized protein,5.812488
+humann_KO_group_counts::K17680: twinkle protein [EC:3.6.4.12],5.8047676
+humann_KO_group_counts::K01783: ribulose-phosphate 3-epimerase [EC:5.1.3.1],5.26117
+humann_KO_group_counts::K03930: putative tributyrin esterase [EC:3.1.1.-],5.1230316
+humann_KO_group_counts::K08717: urea transporter,5.073468
+metaphlan_counts::k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Blautia|s__Blautia_wexlerae,4.9782596
+humann_KO_group_counts::K15584: nickel transport system substrate-binding protein,4.7246714
+metaphlan_counts::k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Streptococcus|s__Streptococcus_australis,4.6237545
+humann_KO_group_counts::K06910: phosphatidylethanolamine-binding protein,4.505644
+metaphlan_rel_ab::k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae,4.439652
+metaphlan_rel_ab::k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Roseburia,4.369429
+humann_KO_group_counts::K02574: ferredoxin-type protein NapH,4.3425484
+humann_KO_group_counts::K09775: uncharacterized protein,4.050191
+humann_KO_group_counts::K10541: methyl-galactoside transport system permease protein,3.5412886
+humann_KO_group_counts::K05593: aminoglycoside 6-adenylyltransferase [EC:2.7.7.-],3.4604418
+metaphlan_counts::k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Actinomycetaceae|g__Actinomyces|s__Actinomyces_odontolyticus,3.2677538
+Day_of_stool_collection_digestion_issue=Y,1.7295619
+metaphlan_rel_ab::k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Blautia|s__Blautia_wexlerae,1.2375747

@@ -1,0 +1,90 @@
+feature,mean_gini_across_folds,n_folds_selected
+Sex=M,0.10379817944085482,5
+Constipation=Y,0.10284257880248793,5
+humann_pathway_counts::PWY-6892: thiazole component of thiamine diphosphate biosynthesis I,0.10050304995943532,2
+humann_KO_group_counts::K02048: sulfate/thiosulfate transport system substrate-binding protein,0.09161778388375766,1
+metaphlan_counts::k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Bifidobacteriales|f__Bifidobacteriaceae|g__Bifidobacterium|s__Bifidobacterium_dentium,0.08914437811933466,1
+"humann_KO_group_counts::K01006: pyruvate, orthophosphate dikinase [EC:2.7.9.1]",0.08734700993917265,1
+humann_KO_group_counts::K10538: L-arabinose transport system permease protein,0.07287866092643651,1
+"humann_KO_group_counts::K19591: MerR family transcriptional regulator, copper efflux regulator",0.07063177449410475,1
+humann_KO_group_counts::K02242: competence protein ComFC,0.06793392544754581,1
+humann_pathway_counts::PWY-7316: dTDP-N-acetylviosamine biosynthesis,0.06741121846286412,1
+humann_pathway_counts::PWY-7312: dTDP-&beta;-D-fucofuranose biosynthesis,0.06562548007849939,1
+metaphlan_counts::k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae,0.06470447117821627,1
+"humann_KO_group_counts::K12452: CDP-4-dehydro-6-deoxyglucose reductase, E1 [EC:1.17.1.1]",0.06455857863180668,1
+humann_KO_group_counts::K06880: erythromycin esterase [EC:3.1.1.-],0.06446421333437014,2
+humann_KO_group_counts::K06975: uncharacterized protein,0.06423575738268904,1
+"humann_KO_group_counts::K01007: pyruvate, water dikinase [EC:2.7.9.2]",0.06378790761690968,1
+humann_KO_group_counts::K04047: starvation-inducible DNA-binding protein,0.06153725546912315,1
+"humann_KO_group_counts::K01419: ATP-dependent HslUV protease, peptidase subunit HslV [EC:3.4.25.2]",0.060082999908627054,1
+humann_KO_group_counts::K06385: stage II sporulation protein P,0.05913982990356404,1
+humann_KO_group_counts::K22116: gamma-polyglutamate biosynthesis protein CapC,0.05751140742462164,1
+humann_pathway_counts::POLYAMINSYN3-PWY: superpathway of polyamine biosynthesis II,0.05730721448430625,1
+humann_KO_group_counts::K02796: mannose PTS system EIID component,0.05579245371738907,1
+metaphlan_counts::k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Blautia|s__Blautia_hydrogenotrophica,0.05565898081347523,1
+metaphlan_rel_ab::k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Bifidobacteriales|f__Bifidobacteriaceae|g__Bifidobacterium|s__Bifidobacterium_dentium,0.05527341868955418,1
+"humann_KO_group_counts::K08222: MFS transporter, YQGE family, putative transporter",0.05516717161589763,1
+metaphlan_rel_ab::k__Bacteria|p__Firmicutes|c__Erysipelotrichia|o__Erysipelotrichales|f__Erysipelotrichaceae|g__Turicibacter,0.054899470241655944,1
+humann_KO_group_counts::K05895: precorrin-6A/cobalt-precorrin-6A reductase [EC:1.3.1.54 1.3.1.106],0.05423452217380899,1
+humann_KO_group_counts::K22212: malolactic enzyme [EC:4.1.1.101],0.05147144879664105,1
+humann_KO_group_counts::K03758: arginine:ornithine antiporter / lysine permease,0.048236214224368267,1
+metaphlan_rel_ab::k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Roseburia|s__Roseburia_faecis,0.04721577222857089,1
+humann_KO_group_counts::K21473: peptidoglycan DL-endopeptidase RipA [EC:3.4.-.-],0.04698464279922989,1
+metaphlan_rel_ab::k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Actinomycetaceae,0.04653298944798328,1
+humann_KO_group_counts::K21498: antitoxin HigA-1,0.04613969534139529,1
+humann_KO_group_counts::K00138: aldehyde dehydrogenase [EC:1.2.1.-],0.04605754397234938,1
+metaphlan_rel_ab::k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Odoribacteraceae|g__Butyricimonas,0.045097652351115555,1
+humann_KO_group_counts::K09974: uncharacterized protein,0.04446008520940091,1
+humann_KO_group_counts::K09807: uncharacterized protein,0.04424377031687483,1
+humann_KO_group_counts::K14534: 4-hydroxybutyryl-CoA dehydratase / vinylacetyl-CoA-Delta-isomerase [EC:4.2.1.120 5.3.3.3],0.04370195707789149,1
+humann_KO_group_counts::K03684: ribonuclease D [EC:3.1.13.5],0.04319323211106992,1
+humann_KO_group_counts::K09786: uncharacterized protein,0.0427895317724934,1
+humann_KO_group_counts::K03076: preprotein translocase subunit SecY,0.0422764431217331,1
+humann_KO_group_counts::K03706: transcriptional pleiotropic repressor,0.042246644805695295,1
+humann_KO_group_counts::K01995: branched-chain amino acid transport system ATP-binding protein,0.042011771498761556,1
+humann_KO_group_counts::K00728: dolichyl-phosphate-mannose-protein mannosyltransferase [EC:2.4.1.109],0.04180048977019774,1
+"humann_KO_group_counts::K07481: transposase, IS5 family",0.040939611803719154,1
+metaphlan_rel_ab::k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Escherichia,0.04065809539583235,1
+"humann_KO_group_counts::K03407: two-component system, chemotaxis family, sensor kinase CheA [EC:2.7.13.3]",0.04020712751005939,2
+humann_pathway_counts::7ALPHADEHYDROX-PWY,0.039941179153737315,1
+humann_KO_group_counts::K00574: cyclopropane-fatty-acyl-phospholipid synthase [EC:2.1.1.79],0.038698816905372094,1
+humann_pathway_counts::METH-ACETATE-PWY: methanogenesis from acetate,0.037364758268001216,1
+humann_KO_group_counts::K03390: heterodisulfide reductase subunit C2 [EC:1.8.7.3 1.8.98.4 1.8.98.5 1.8.98.6],0.037318100500585594,1
+"humann_KO_group_counts::K01040: glutaconate CoA-transferase, subunit B [EC:2.8.3.12]",0.03681124557502609,1
+humann_KO_group_counts::K20904: (R)-2-hydroxyglutaryl-CoA dehydratase subunit beta [EC:4.2.1.167],0.03633571048586186,1
+humann_KO_group_counts::K05997: Fe-S cluster assembly protein SufA,0.03501348366736089,1
+humann_KO_group_counts::K03610: septum site-determining protein MinC,0.03475882399493513,1
+metaphlan_rel_ab::k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Blautia|s__Ruminococcus_gnavus,0.03444857859291011,1
+humann_KO_group_counts::K05368: aquacobalamin reductase / NAD(P)H-flavin reductase [EC:1.16.1.3 1.5.1.41],0.034234143716106745,1
+metaphlan_counts::k__Bacteria|p__Firmicutes|c__Erysipelotrichia|o__Erysipelotrichales|f__Erysipelotrichaceae|g__Holdemanella|s__Holdemanella_biformis,0.034139349612892625,1
+metaphlan_counts::k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Actinomycetaceae|g__Actinomyces|s__Actinomyces_oris,0.033655017912847605,1
+humann_KO_group_counts::K07019: uncharacterized protein,0.033264898969020844,1
+humann_KO_group_counts::K00795: farnesyl diphosphate synthase [EC:2.5.1.1 2.5.1.10],0.03279175683969301,1
+humann_KO_group_counts::K03399: cobalt-precorrin-7 (C5)-methyltransferase [EC:2.1.1.289],0.032438197940282104,1
+"humann_pathway_counts::PWY-7385: 1,3-propanediol biosynthesis (engineered)",0.03213020363842669,1
+humann_KO_group_counts::K02806: nitrogen PTS system EIIA component [EC:2.7.1.-],0.03212527158072431,1
+humann_KO_group_counts::K03304: tellurite resistance protein,0.03210886777607247,1
+humann_KO_group_counts::K02466: glucitol operon activator protein,0.031115731440715458,1
+humann_KO_group_counts::K06919: putative DNA primase/helicase,0.029976224545615462,1
+humann_KO_group_counts::K07742: uncharacterized protein,0.029967991695106593,1
+humann_KO_group_counts::K09004: uncharacterized protein,0.029909739480162612,1
+humann_KO_group_counts::K07455: recombination protein RecT,0.02987745169381541,1
+humann_KO_group_counts::K03238: translation initiation factor 2 subunit 2,0.029595140178245063,1
+humann_KO_group_counts::K17218: sulfide:quinone oxidoreductase [EC:1.8.5.4],0.028692321228894705,1
+humann_KO_group_counts::K01821: 4-oxalocrotonate tautomerase [EC:5.3.2.6],0.02811241169752589,1
+metaphlan_counts::k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Odoribacteraceae,0.02806670349830979,1
+humann_KO_group_counts::K14742: tRNA threonylcarbamoyladenosine biosynthesis protein TsaB,0.027432836473536122,1
+humann_KO_group_counts::K08372: putative serine protease PepD [EC:3.4.21.-],0.026740782329358358,1
+humann_KO_group_counts::K02116: ATP synthase protein I,0.026524518674915818,1
+humann_KO_group_counts::K11179: tRNA 2-thiouridine synthesizing protein E [EC:2.8.1.-],0.02625136943460166,1
+humann_KO_group_counts::K05303: O-methyltransferase [EC:2.1.1.-],0.025307349570728575,1
+humann_KO_group_counts::K01191: alpha-mannosidase [EC:3.2.1.24],0.024594748613935166,1
+humann_KO_group_counts::K03230: type III secretion protein V,0.024014516890067922,1
+humann_KO_group_counts::K09955: uncharacterized protein,0.023682776712018693,1
+Probiotic=Y,0.022900730325003886,1
+humann_KO_group_counts::K19064: lysine 6-dehydrogenase [EC:1.4.1.18],0.022527484105289493,1
+humann_KO_group_counts::K02263: cytochrome c oxidase subunit 4,0.019877463645086836,1
+humann_KO_group_counts::K00823: 4-aminobutyrate aminotransferase [EC:2.6.1.19],0.019704985012257405,1
+humann_KO_group_counts::K02598: nitrite transporter,0.018635418925489183,1
+humann_KO_group_counts::K09015: Fe-S cluster assembly protein SufD,0.007714032732486894,1
+"humann_KO_group_counts::K08369: MFS transporter, putative metabolite:H+ symporter",0.005107030493849186,1

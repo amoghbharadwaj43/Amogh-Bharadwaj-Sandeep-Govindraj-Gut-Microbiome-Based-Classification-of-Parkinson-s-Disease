@@ -1,0 +1,20 @@
+PWY-7199: pyrimidine deoxyribonucleosides salvage
+Constipation_Y
+K06166: alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnG [EC:2.7.8.37]
+K01361: lactocepin [EC:3.4.21.96]
+K06390: stage III sporulation protein AA
+K00864: glycerol kinase [EC:2.7.1.30]
+k__Bacteria
+K02747: N-acetylgalactosamine PTS system EIID component
+K15727: membrane fusion protein, heavy metal efflux system
+k__Bacteria|p__Firmicutes|c__Erysipelotrichia|o__Erysipelotrichales|f__Erysipelotrichaceae|g__Turicibacter|s__Turicibacter_sanguinis
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae|g__Bacteroides|s__Bacteroides_fragilis
+K07334: toxin HigB-1
+THISYNARA-PWY: superpathway of thiamine diphosphate biosynthesis III (eukaryotes)
+k__Bacteria|p__Firmicutes
+k__Bacteria|p__Firmicutes|c__Erysipelotrichia|o__Erysipelotrichales|f__Erysipelotrichaceae|g__Faecalicoccus|s__Faecalicoccus_pleomorphus
+K07670: two-component system, OmpR family, response regulator MtrA
+PWY-7383: anaerobic energy metabolism (invertebrates, cytosol)
+K04484: DNA repair protein RadB
+PWY-7663: gondoate biosynthesis (anaerobic)
+K20490: lantibiotic transport system ATP-binding protein

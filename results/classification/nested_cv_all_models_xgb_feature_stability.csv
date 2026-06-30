@@ -1,0 +1,62 @@
+feature,n_folds_selected
+Sex=M,5
+Constipation=Y,5
+Bristol_stool_chart,4
+humann_KO_group_counts::K17680: twinkle protein [EC:3.6.4.12],4
+metaphlan_counts::k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Clostridiaceae|g__Clostridium,4
+metaphlan_rel_ab::k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Bifidobacteriales|f__Bifidobacteriaceae|g__Bifidobacterium|s__Bifidobacterium_dentium,3
+metaphlan_counts::k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Streptococcus|s__Streptococcus_australis,3
+Antihistamines=Y,3
+metaphlan_rel_ab::k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae,3
+metaphlan_counts::k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae,2
+Day_of_stool_collection_digestion_issue=Y,2
+metaphlan_counts::k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Bifidobacteriales|f__Bifidobacteriaceae|g__Bifidobacterium|s__Bifidobacterium_dentium,2
+metaphlan_counts::k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Ruminococcus|s__Ruminococcus_lactaris,2
+humann_KO_group_counts::K15584: nickel transport system substrate-binding protein,2
+humann_KO_group_counts::K07284: sortase A [EC:3.4.22.70],2
+humann_pathway_counts::PWY-5920: superpathway of heme b biosynthesis from glycine,2
+humann_KO_group_counts::K09775: uncharacterized protein,2
+humann_KO_group_counts::K00065: 2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase [EC:1.1.1.127],2
+metaphlan_rel_ab::k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Streptococcus|s__Streptococcus_australis,2
+metaphlan_counts::k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Roseburia,2
+metaphlan_counts::k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Blautia|s__Blautia_wexlerae,2
+humann_KO_group_counts::K02574: ferredoxin-type protein NapH,2
+Laxatives=Y,2
+"humann_KO_group_counts::K20487: two-component system, OmpR family, lantibiotic biosynthesis sensor histidine kinase NisK/SpaK [EC:2.7.13.3]",1
+metaphlan_counts::k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Faecalibacterium,1
+metaphlan_rel_ab::k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Blautia,1
+humann_KO_group_counts::K20460: lantibiotic transport system permease protein,1
+humann_KO_group_counts::K15773: HTH-type transcriptional regulator / antitoxin HipB,1
+"humann_KO_group_counts::K07552: MFS transporter, DHA1 family, multidrug resistance protein",1
+Depression_anxiety_mood_med=Y,1
+humann_KO_group_counts::K07006: uncharacterized protein,1
+metaphlan_rel_ab::k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Ruthenibacterium,1
+humann_KO_group_counts::K03976: Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase [EC:3.1.1.-],1
+humann_KO_group_counts::K09791: uncharacterized protein,1
+metaphlan_counts::k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Dialister|s__Dialister_invisus,1
+humann_KO_group_counts::K00675: N-hydroxyarylamine O-acetyltransferase [EC:2.3.1.118],1
+humann_KO_group_counts::K07118: uncharacterized protein,1
+metaphlan_rel_ab::k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Roseburia,1
+humann_KO_group_counts::K07070: uncharacterized protein,1
+humann_KO_group_counts::K03885: NADH dehydrogenase [EC:1.6.99.3],1
+metaphlan_counts::k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Micrococcales|f__Micrococcaceae|g__Rothia|s__Rothia_mucilaginosa,1
+metaphlan_rel_ab::k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Lactobacillus,1
+"humann_KO_group_counts::K11924: DtxR family transcriptional regulator, manganese transport regulator",1
+metaphlan_rel_ab::k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales|f__Actinomycetaceae|g__Actinomyces|s__Actinomyces_sp_HMSC035G02,1
+humann_KO_group_counts::K01783: ribulose-phosphate 3-epimerase [EC:5.1.3.1],1
+humann_KO_group_counts::K02048: sulfate/thiosulfate transport system substrate-binding protein,1
+humann_pathway_counts::THISYN-PWY: superpathway of thiamine diphosphate biosynthesis I,1
+humann_KO_group_counts::K16211: maltose/moltooligosaccharide transporter,1
+metaphlan_counts::k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Clostridiaceae,1
+humann_KO_group_counts::K03118: sec-independent protein translocase protein TatC,1
+humann_KO_group_counts::K10709: fructoselysine 3-epimerase [EC:5.1.3.41],1
+metaphlan_counts::k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Roseburia|s__Roseburia_faecis,1
+humann_KO_group_counts::K09891: uncharacterized protein,1
+humann_KO_group_counts::K18830: HTH-type transcriptional regulator / antitoxin PezA,1
+humann_pathway_counts::PWY-6892: thiazole component of thiamine diphosphate biosynthesis I,1
+humann_KO_group_counts::K01361: lactocepin [EC:3.4.21.96],1
+humann_KO_group_counts::K15051: DNA-entry nuclease,1
+humann_KO_group_counts::K07448: restriction system protein,1
+humann_KO_group_counts::K10541: methyl-galactoside transport system permease protein,1
+humann_KO_group_counts::K02361: isochorismate synthase [EC:5.4.4.2],1
+"humann_KO_group_counts::K01419: ATP-dependent HslUV protease, peptidase subunit HslV [EC:3.4.25.2]",1

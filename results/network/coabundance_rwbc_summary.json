@@ -1,0 +1,30 @@
+{
+  "top_features_csv": "/Users/amoghbharadwaj/PycharmProjects/Science_Fair_25_26/artifacts/network/coabundance_top_features_full_xg.csv",
+  "pd_edges_csv": "/Users/amoghbharadwaj/PycharmProjects/Science_Fair_25_26/artifacts/network/coabundance_pd_edges_full_xg.csv",
+  "healthy_edges_csv": "/Users/amoghbharadwaj/PycharmProjects/Science_Fair_25_26/artifacts/network/coabundance_healthy_edges_full_xg.csv",
+  "top_k": 20,
+  "label_top_k": 80,
+  "rwbc_network_figure_png": "/Users/amoghbharadwaj/PycharmProjects/Science_Fair_25_26/artifacts/network/coabundance_network_rwbc_all_features.png",
+  "pd_network": {
+    "n_nodes": 1015,
+    "n_edges": 323825,
+    "n_components_size_ge_2": 25,
+    "attempted_walks": 36000,
+    "successful_walks": 7227,
+    "rw_pairs": 3000,
+    "walks_per_pair": 12,
+    "max_steps": 200,
+    "random_seed": 42
+  },
+  "healthy_network": {
+    "n_nodes": 1015,
+    "n_edges": 324147,
+    "n_components_size_ge_2": 27,
+    "attempted_walks": 36000,
+    "successful_walks": 7271,
+    "rw_pairs": 3000,
+    "walks_per_pair": 12,
+    "max_steps": 200,
+    "random_seed": 42
+  }
+}

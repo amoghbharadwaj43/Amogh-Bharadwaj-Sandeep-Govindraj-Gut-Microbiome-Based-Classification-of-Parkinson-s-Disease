@@ -1,0 +1,21 @@
+feature,importance
+PWY-7199: pyrimidine deoxyribonucleosides salvage,27.379299625356918
+Constipation_Y,11.649507741296022
+k__Bacteria,8.893128037479041
+K06166: alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnG [EC:2.7.8.37],5.692913774833119
+K06390: stage III sporulation protein AA,4.512096003881887
+K00864: glycerol kinase [EC:2.7.1.30],4.506080167563277
+K01361: lactocepin [EC:3.4.21.96],4.310198657260926
+K02747: N-acetylgalactosamine PTS system EIID component,4.197798893445394
+"K15727: membrane fusion protein, heavy metal efflux system",3.625902184159017
+K07334: toxin HigB-1,3.5166376520758083
+k__Bacteria|p__Firmicutes|c__Erysipelotrichia|o__Erysipelotrichales|f__Erysipelotrichaceae|g__Turicibacter|s__Turicibacter_sanguinis,3.4938739180730205
+THISYNARA-PWY: superpathway of thiamine diphosphate biosynthesis III (eukaryotes),3.4087830532341963
+k__Bacteria|p__Firmicutes,3.204436289417768
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae|g__Bacteroides|s__Bacteroides_fragilis,3.199616299656613
+PWY-7663: gondoate biosynthesis (anaerobic),3.077212563858492
+"PWY-7383: anaerobic energy metabolism (invertebrates, cytosol)",2.906556552917243
+"K07670: two-component system, OmpR family, response regulator MtrA",2.42595858549128
+k__Bacteria|p__Firmicutes|c__Erysipelotrichia|o__Erysipelotrichales|f__Erysipelotrichaceae|g__Faecalicoccus|s__Faecalicoccus_pleomorphus,0.0
+K04484: DNA repair protein RadB,0.0
+K20490: lantibiotic transport system ATP-binding protein,0.0

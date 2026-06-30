@@ -1,0 +1,106 @@
+{
+  "pd_network": {
+    "n_nodes": 150,
+    "n_edges": 500,
+    "density": 0.0447,
+    "avg_clustering": 0.3117,
+    "lcc_fraction": 0.3933,
+    "avg_path_length_lcc": 1.9234,
+    "modularity": 0.2153,
+    "n_communities": 80
+  },
+  "ctrl_network": {
+    "n_nodes": 150,
+    "n_edges": 484,
+    "density": 0.0433,
+    "avg_clustering": 0.3393,
+    "lcc_fraction": 0.3933,
+    "avg_path_length_lcc": 2.0941,
+    "modularity": 0.2726,
+    "n_communities": 71
+  },
+  "top_pd_keystones": [
+    {
+      "short_name": "Blautia hansenii",
+      "betweenness": 0.017504081262470522
+    },
+    {
+      "short_name": "Streptococcus mitis",
+      "betweenness": 0.0151460185017232
+    },
+    {
+      "short_name": "Candidatus Stoquefichus sp KLE1796",
+      "betweenness": 0.011971703246871033
+    },
+    {
+      "short_name": "Clostridium bolteae",
+      "betweenness": 0.01024850353709414
+    },
+    {
+      "short_name": "Clostridium sp CAG 299",
+      "betweenness": 0.008525303827317249
+    },
+    {
+      "short_name": "Clostridium saccharolyticum",
+      "betweenness": 0.008253219662615635
+    },
+    {
+      "short_name": "Streptococcus oralis",
+      "betweenness": 0.006711409395973154
+    },
+    {
+      "short_name": "Firmicutes bacterium CAG 424",
+      "betweenness": 0.00625793578813713
+    },
+    {
+      "short_name": "Bifidobacterium breve",
+      "betweenness": 0.005532378015599492
+    },
+    {
+      "short_name": "Actinomyces sp HMSC035G02",
+      "betweenness": 0.0051695991293306725
+    }
+  ],
+  "top_ctrl_keystones": [
+    {
+      "short_name": "Blautia hansenii",
+      "betweenness": 0.01251587157627426
+    },
+    {
+      "short_name": "Eubacterium callanderi",
+      "betweenness": 0.012243787411572647
+    },
+    {
+      "short_name": "Actinomyces sp HMSC035G02",
+      "betweenness": 0.011608924360602213
+    },
+    {
+      "short_name": "Eggerthella lenta",
+      "betweenness": 0.011427534917467803
+    },
+    {
+      "short_name": "Dialister invisus",
+      "betweenness": 0.009250861599854889
+    },
+    {
+      "short_name": "Clostridium aldenense",
+      "betweenness": 0.008615998548884455
+    },
+    {
+      "short_name": "Rothia mucilaginosa",
+      "betweenness": 0.008253219662615635
+    },
+    {
+      "short_name": "Anaerostipes caccae",
+      "betweenness": 0.007709051333212407
+    },
+    {
+      "short_name": "Eisenbergiella massiliensis",
+      "betweenness": 0.007074188282241973
+    },
+    {
+      "short_name": "Clostridiales bacterium 1 7 47FAA",
+      "betweenness": 0.006892798839107564
+    }
+  ]
+}
